@@ -1,0 +1,145 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+/* barre nav  */
+.nomm{
+  background-color: #346077;
+  height: 230px;
+}
+
+
+.img1s{
+  height: 230px;
+}
+
+.titlee{
+  text-align: center;
+  margin-top: -210px ;
+}
+
+.boutoon{
+display: flex;
+justify-content: space-around;
+margin: 120px;
+font-size: 30px;
+}
+
+a{
+  color: white;
+}
+
+
+/* formulaire de connexion  */
+
+.connexion{
+  text-align: center;
+  margin: 10px;
+}
+
+.chp{
+  justify-content: center;
+  display: flex;
+  margin-top: 15px;
+}
+
+
+.placeholder{
+display: flex;
+margin: 10px;
+justify-content: center;
+border: 2px solid black;
+}
+
+.bonbon{
+  display: flex;
+  justify-content: center;
+  margin: 12px;
+}
+
+/* formulaire de mots de passe oubliée */
+
+
+.form{
+  margin: 20px;
+  text-align: center;
+}
+
+.formm{
+  margin: 20px;
+  text-align: center;
+ 
+}
+
+.mdpoub{
+  border: 2px solid black;
+}
+
+.connex{
+  text-align: center;
+}
+
+.necter{
+  border: 2px solid black;
+  margin: 12px;
+}
+
+/* page de gestions des comptes */
+
+.ecriture{
+  margin: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+.inscription{
+  display:flex;
+  justify-content: end;
+}
+
+
+.modif{
+font-size: 40px;
+margin: 40px;
+text-align: center;
+}
+
+.butbut{
+  display: flex;
+  justify-content: center;
+}
+/* créations d'un nouvel utilisateur */
+
+.modifier{
+  text-align: center;
+  margin: 20px;
+}
+
+.butbut{
+  margin: 12px;
+}
+
+.seConnecter{
+  border: 2px solid black;
+}
+
+/* deconnexion */
+
+.jaja{
+  height: 150px;
+  background-color: grey;
+}
+
+.titre{
+  margin: 12px;
+  text-align: center;
+}
+
+.btn2{
+  display: flex;
+  justify-content: center;
+ margin: 20px;
+}
